@@ -108,7 +108,19 @@ Permettant le suivi de :
 * Déploiement de services supplémentaires
 * Renforcement de la supervision
 * Automatisation des déploiements
+## 📸 Captures d'écran
 
+### Tableau de bord Proxmox
+
+![Dashboard Proxmox](images/proxmox-dashboard.png)
+
+### Gestion Docker avec Portainer
+
+![Dashboard Portainer](images/portainer-dashboard.png)
+
+### Schéma d'architecture
+
+![Architecture](images/schema-homelab.png)
 ---
 
 ## 👨‍💻 Auteur

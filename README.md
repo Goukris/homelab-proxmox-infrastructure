@@ -122,6 +122,19 @@ Projet personnel réalisé dans le cadre de ma montée en compétences en admini
 
 ![Dashboard Portainer](images/portainer-dashboard.png)
 
+### Surveillance avec Uptime Kuma
+
+![Uptime Kuma](images/uptime-kuma.png)
+
+### Stockage et partage avec Nextcloud
+
+![Nextcloud](images/nextcloud.png)
+
+### Sauvegardes Proxmox
+
+![Sauvegardes Proxmox](images/backup-proxmox.png)
 ### Schéma d'architecture
 
 ![Architecture](images/schema-homelab.png)
+
+

@@ -108,6 +108,10 @@ Permettant le suivi de :
 * Déploiement de services supplémentaires
 * Renforcement de la supervision
 * Automatisation des déploiements
+
+## 👨‍💻 Auteur
+
+Projet personnel réalisé dans le cadre de ma montée en compétences en administration systèmes et réseaux.
 ## 📸 Captures d'écran
 
 ### Tableau de bord Proxmox
@@ -121,9 +125,3 @@ Permettant le suivi de :
 ### Schéma d'architecture
 
 ![Architecture](images/schema-homelab.png)
----
-
-## 👨‍💻 Auteur
-
-Projet personnel réalisé dans le cadre de ma montée en compétences en administration systèmes et réseaux.
-

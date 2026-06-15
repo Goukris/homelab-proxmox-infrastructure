@@ -133,7 +133,15 @@ Projet personnel réalisé dans le cadre de ma montée en compétences en admini
 ### Sauvegardes Proxmox
 
 ![Sauvegardes Proxmox](images/backup-proxmox.png)
+
+### Vérification des sauvegardes
+
+Les sauvegardes sont stockées sur un disque dur externe dédié et vérifiées régulièrement depuis le terminal Linux.
+
+![Sauvegardes Proxmox](images/terminal.png)
+
 ### Schéma d'architecture
+
 
 ![Architecture](images/schema-homelab.png)
 

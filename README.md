@@ -50,6 +50,7 @@ L'objectif est de développer des compétences concrètes en administration Linu
 * Utilisateur dédié
 * Reverse Proxy via Nginx Proxy Manager
 * Services accessibles uniquement depuis le réseau autorisé
+* Mise en place d'une gestion des accès Proxmox avec compte administrateur dédié et conservation du compte root comme accès de secours.
 
 ---
 
